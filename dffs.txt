@@ -11,3 +11,13 @@
 /invite/
 /.htaccess
 /img/
+/cgi-bin/status
+/api/
+/api/upload
+/api/settings
+/edge_stack/admin/
+//%0d%0ahttp://google.com/
+/.git/HEAD
+/__graphql
+/graphql
+/ReportServer/Pages/ReportViewer.aspx
