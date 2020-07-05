@@ -16,8 +16,13 @@
 /api/upload
 /api/settings
 /edge_stack/admin/
-//%0d%0ahttp://google.com/
 /.git/HEAD
 /__graphql
 /graphql
 /ReportServer/Pages/ReportViewer.aspx
+/openemr-5.0.1/controller.php
+/repository/repository_ajax.php?action=signin
+/assets/lib/fuc.js.php?url=
+/ajax/api/content_infraction/getIndexableContent
+/tmui/login.jsp
+/jenkins/securityRealm/user/admin/
