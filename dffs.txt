@@ -26,3 +26,4 @@
 /ajax/api/content_infraction/getIndexableContent
 /tmui/login.jsp
 /jenkins/securityRealm/user/admin/
+/grafana_gcp/login
