@@ -10,12 +10,8 @@
 /register/
 /invite/
 /.htaccess
-/img/
-/cgi-bin/status
 /api/
 /api/upload
-/api/settings
-/edge_stack/admin/
 /.git/HEAD
 /__graphql
 /graphql
@@ -25,5 +21,7 @@
 /assets/lib/fuc.js.php?url=
 /ajax/api/content_infraction/getIndexableContent
 /tmui/login.jsp
-/jenkins/securityRealm/user/admin/
 /grafana_gcp/login
+/account
+/oauth
+/login?from=%2F
